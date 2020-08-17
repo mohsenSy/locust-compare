@@ -1,0 +1,6 @@
+.tags*
+tests.json
+locustfile.py
+results
+__pycache__/
+*.pyc
